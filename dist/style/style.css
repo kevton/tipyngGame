@@ -1,0 +1,15 @@
+header {
+    background-color: white;
+    text-align: center;
+}
+
+header img {
+    max-width: 300px;
+}
+
+div.container {
+    text-align: center;
+    background-color: rgb(233, 233, 193);
+    border: 2px solid rgb(233, 233, 193);
+    border-radius: 35px;
+}
